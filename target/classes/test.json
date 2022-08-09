@@ -1,0 +1,49 @@
+{
+	"data": [
+		{
+			"cl_id": 1,
+			"game_id": 1,
+			"date": "Aug 3, 2022",
+			"play_count": 1,
+			"sess_count": 1,
+			"ply_chip": 1,
+			"win_chip": 1
+		},
+		{
+			"cl_id": 2,
+			"game_id": 2,
+			"date": "Aug 24, 2022",
+			"play_count": 2,
+			"sess_count": 2,
+			"ply_chip": 2,
+			"win_chip": 2
+		},
+		{
+			"cl_id": 3,
+			"game_id": 3,
+			"date": "Aug 11, 2022",
+			"play_count": 3,
+			"sess_count": 3,
+			"ply_chip": 3,
+			"win_chip": 3
+		},
+		{
+			"cl_id": 4,
+			"game_id": 4,
+			"date": "Aug 11, 2022",
+			"play_count": 4,
+			"sess_count": 4,
+			"ply_chip": 4,
+			"win_chip": 4
+		},
+		{
+			"cl_id": 5,
+			"game_id": 5,
+			"date": "Aug 10, 2022",
+			"play_count": 5,
+			"sess_count": 5,
+			"ply_chip": 5,
+			"win_chip": 5
+		}
+	]
+}
